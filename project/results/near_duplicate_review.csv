@@ -1,0 +1,4 @@
+pair_a,pair_b,hamming_distance,decision,reason
+coco2017val_000000544444,coco2017val_000000080153,8,distinct,"Different skiers, clothing, locations and a dog in the second image."
+coco2017val_000000255965,coco2017val_000000163155,7,near_repeat_removed,"Same cat, location and framing with a small pose change; image 163155 was excluded."
+coco2017val_000000168974,coco2017val_000000193494,7,distinct,A child holding a phone and a blue bedroom; matching low-frequency layout was a false positive.

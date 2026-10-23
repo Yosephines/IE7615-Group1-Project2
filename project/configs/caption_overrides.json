@@ -1,0 +1,602 @@
+{
+  "1268": {
+    "caption_id": 177293,
+    "reason": "Replaced subjective appearance wording with the visible river-and-bridge scene."
+  },
+  "140583": {
+    "caption_id": 384800,
+    "reason": "The initial caption called the animals donkeys; selected an existing caption without that incorrect label."
+  },
+  "78266": {
+    "caption_id": 681442,
+    "reason": "Selected a clearer visible kitchen description without an unsupported unattended claim."
+  },
+  "404484": {
+    "caption_id": 188322,
+    "reason": "Selected a neutral description without assuming the exact action."
+  },
+  "28993": {
+    "caption_id": 594246,
+    "reason": "Selected a caption naming the visible fire hydrants rather than poles."
+  },
+  "189806": {
+    "reason": "Action 'playing' was not clear; select a caption describing the cat and dog on the floor.",
+    "caption_id": 481278
+  },
+  "168593": {
+    "reason": "Prefer a factual kitchen description over 'dirty, rundown'.",
+    "caption_id": 769951
+  },
+  "35682": {
+    "reason": "Generic breakfast claim did not describe the actual scene.",
+    "caption_id": 669504
+  },
+  "529568": {
+    "reason": "Prefer a specific kitchen/chandelier caption without subjective 'fancy'.",
+    "caption_id": 328941
+  },
+  "577932": {
+    "reason": "Gender/action detail was uncertain; select a neutral people-and-bicycle caption.",
+    "caption_id": 769788
+  },
+  "239857": {
+    "reason": "Gender was uncertain; select a person-and-frisbee description.",
+    "caption_id": 648167,
+    "caption": "A person holding a green frisbee near tents and red chairs."
+  },
+  "581482": {
+    "reason": "Typo 'cloth' should describe the visible clock.",
+    "caption_id": 39024
+  },
+  "124636": {
+    "reason": "Caption said baby cow standing, but the standing animal was an adult and the calf was lying down.",
+    "caption_id": 47711
+  },
+  "271728": {
+    "reason": "Remove unnecessary body-size judgment; retain the cat/couch scene.",
+    "caption_id": 765614
+  },
+  "355677": {
+    "reason": "Caption contained 'surf boar' and 'floatee'; select a clear beach-lifeguard caption.",
+    "caption_id": 163349
+  },
+  "137294": {
+    "reason": "Freezer and second woman were not clear; prefer a factual visible cart scene.",
+    "caption_id": 73277
+  },
+  "252507": {
+    "reason": "Cross-country skiing was uncertain; use a neutral skier description.",
+    "caption_id": 641112
+  },
+  "85376": {
+    "reason": "Motorcycle was parked along a street rather than clearly in a full parking lot.",
+    "caption_id": 771399,
+    "caption": "A green motorcycle parked beside a street with cars."
+  },
+  "86755": {
+    "reason": "Only one skier was clearly visible; avoid 'a couple of people'.",
+    "caption_id": 540873,
+    "caption": "A person skiing along a snowy trail between trees."
+  },
+  "99053": {
+    "reason": "Utensils were chopsticks rather than a fork.",
+    "caption_id": 333845
+  },
+  "282298": {
+    "reason": "Winter was not established by the indoor station scene.",
+    "caption_id": 552046
+  },
+  "526256": {
+    "reason": "Building appeared stone rather than brick; prefer a neutral clock-tower caption.",
+    "caption_id": 762979
+  },
+  "498286": {
+    "reason": "No big sign was visible in the dog close-up.",
+    "caption_id": 435980
+  },
+  "86956": {
+    "reason": "The claimed bat was not clearly visible; select a caption describing people and controllers. Second visual pass narrowed the wording to visible details.",
+    "caption_id": 237113,
+    "caption": "Three people smiling together in a room."
+  },
+  "347930": {
+    "reason": "Dog was tan, not blue.",
+    "caption_id": 671265
+  },
+  "384666": {
+    "reason": "Caption contained 'riding skis'; select a clearer skiing caption.",
+    "caption_id": 133377
+  },
+  "398742": {
+    "reason": "Remove unnecessary body-size wording from the rugby caption.",
+    "caption_id": 195279
+  },
+  "445248": {
+    "reason": "Group included adult elephants; avoid describing all as little.",
+    "caption_id": 508117
+  },
+  "119445": {
+    "reason": "'Empire' was incorrect and the catcher was not an umpire.",
+    "caption_id": 301218
+  },
+  "175364": {
+    "reason": "Two separate stoves were not clearly visible.",
+    "caption_id": 698961
+  },
+  "297343": {
+    "reason": "Caption placed stop sign in grass beside a building, but this image was indoors.",
+    "caption_id": 353179
+  },
+  "286553": {
+    "reason": "Caption said 'copse of men' despite two diners of different apparent genders; choose a neutral two-people caption.",
+    "caption_id": 264805
+  },
+  "107226": {
+    "reason": "Replace awkward 'being drug' with an existing clear dog-cart caption.",
+    "caption_id": 211983
+  },
+  "522889": {
+    "reason": "Prefer a generic tennis-player caption over an unverified named identity.",
+    "caption_id": 391704
+  },
+  "572517": {
+    "reason": "Bear was near a bird; following was not established.",
+    "caption_id": 320209
+  },
+  "484415": {
+    "reason": "Typo 'topf'; select a clearer toilet-flushing caption.",
+    "caption_id": 381887
+  },
+  "85576": {
+    "reason": "A toilet-paper roll was visible, so 'empty toilet paper holders' was misleading.",
+    "caption_id": 76602
+  },
+  "27932": {
+    "reason": "Hat was on the glove rather than the mitt being inside the hat.",
+    "caption_id": 218934
+  },
+  "524108": {
+    "reason": "Motorcycles were parked side by side rather than stacked.",
+    "caption_id": 453753
+  },
+  "190007": {
+    "reason": "Select a complete natural sentence for the surfing image.",
+    "caption_id": 751840
+  },
+  "369771": {
+    "reason": "Caption described arrows instead of the main food contents.",
+    "caption_id": 172204
+  },
+  "78959": {
+    "reason": "Replace vague 'strange plant' with a factual banana-tree/blossom description.",
+    "caption_id": 651260
+  },
+  "191288": {
+    "reason": "Rider gender was uncertain; prefer a neutral horse-jumping caption.",
+    "caption_id": 594538
+  },
+  "223789": {
+    "reason": "Typo 'rome'; select a clear bathroom caption.",
+    "caption_id": 701259
+  },
+  "417249": {
+    "reason": "Scene was an airport/luggage check-in, not clearly an office building with packages. Second visual pass narrowed the wording to visible details.",
+    "caption_id": 752545,
+    "caption": "People standing with luggage and carts at an airport."
+  },
+  "7281": {
+    "reason": "Gender claim 'two men' was uncertain; prefer two riders.",
+    "caption_id": 150509,
+    "caption": "Two people riding horses along a beach."
+  },
+  "356498": {
+    "reason": "Pancake label was uncertain; check alternate descriptions of the flatbread/food.",
+    "caption_id": 452755
+  },
+  "427034": {
+    "reason": "Caption anthropomorphized the dog as browsing; prefer dog beside laptop.",
+    "caption_id": 56763
+  },
+  "29393": {
+    "reason": "Surface beside dog was not clearly a wooden fence; inspect alternate captions.",
+    "caption_id": 200883
+  },
+  "374369": {
+    "reason": "Caption grammar was incomplete; prefer a natural skier description.",
+    "caption_id": 111313
+  },
+  "500211": {
+    "reason": "Spooky was subjective and hotel identity was not evident; use visible umbrellas/buildings.",
+    "caption_id": 280338
+  },
+  "285": {
+    "reason": "Caption had a typo and unnecessary 'burly' wording.",
+    "caption_id": 668473
+  },
+  "245173": {
+    "reason": "Clock tower appeared stone, not red brick.",
+    "caption_id": 297752
+  },
+  "280710": {
+    "reason": "Caption began with missing subject ('of people').",
+    "caption_id": 297410
+  },
+  "189310": {
+    "reason": "Visible red/orange seat was an armchair rather than clearly a couch.",
+    "caption_id": 245176
+  },
+  "361919": {
+    "reason": "Foreground skiers were standing rather than all skiing downhill.",
+    "caption_id": 184469
+  },
+  "399560": {
+    "reason": "Original-resolution review confirmed the kitten between a partially closed laptop; selected the accurate existing description.",
+    "caption_id": 432713
+  },
+  "309938": {
+    "reason": "Dog's eyes were dark, not blue.",
+    "caption_id": 351427
+  },
+  "352618": {
+    "reason": "Bananas were not clear; prefer a caption naming the visible bowl of fruit.",
+    "caption_id": 631302
+  },
+  "570782": {
+    "reason": "Laptop screens were visible, contradicting 'without screens'.",
+    "caption_id": 218499
+  },
+  "87875": {
+    "reason": "Caption had major transcription errors ('hadron').",
+    "caption_id": 780128
+  },
+  "42102": {
+    "reason": "Prefer a neutral person/outfit description without inferring gender from appearance.",
+    "caption_id": 397906,
+    "caption": "A person wearing a blue blazer, a skirt and black stockings."
+  },
+  "168883": {
+    "reason": "Face paint versus mask was uncertain; choose visible costume details.",
+    "caption_id": 57382
+  },
+  "330790": {
+    "reason": "Elephant held plants in its trunk, not a tusk.",
+    "caption_id": 655483
+  },
+  "481386": {
+    "reason": "Caption had 'A women'; select a clear kitchen/whisk caption.",
+    "caption_id": 469662,
+    "caption": "A person holding a whisk in a kitchen."
+  },
+  "89556": {
+    "reason": "Fire hydrant was not clear among the parked cars.",
+    "caption_id": 724053
+  },
+  "20553": {
+    "reason": "Teddy was part of an outdoor display, not clearly on a bed.",
+    "caption_id": 532717
+  },
+  "544519": {
+    "reason": "Remove inferred ethnicity; the visible brushing action was sufficient.",
+    "caption_id": 225142
+  },
+  "192191": {
+    "reason": "Pizza was visible in an open oven; frozen/coming-out claims were not supported.",
+    "caption_id": 318634
+  },
+  "239773": {
+    "reason": "Batter appeared ready to swing, not necessarily already swinging.",
+    "caption_id": 476543
+  },
+  "508639": {
+    "reason": "Buildings resembled pagodas rather than pyramid-shaped mosques; choose a neutral carriage/building caption.",
+    "caption_id": 156812
+  },
+  "90891": {
+    "reason": "Exact count of five men was uncertain; prefer a group-of-vendors caption.",
+    "caption_id": 642030
+  },
+  "367818": {
+    "reason": "Remove unnecessary 'tight' clothing judgment.",
+    "caption_id": 132294
+  },
+  "247806": {
+    "reason": "Original wording was valid; the initial concern came from the review-sheet display. Retained original caption.",
+    "caption_id": 757804
+  },
+  "129322": {
+    "reason": "Replace split-word typo 'bath room' with a natural caption.",
+    "caption_id": 671660
+  },
+  "261982": {
+    "reason": "A fall/spill was not clear; describe the skateboard trick.",
+    "caption_id": 734149
+  },
+  "81061": {
+    "reason": "Closer review confirmed an outdoor curb, not an indoor room. Selected a caption describing the curb and furniture.",
+    "caption_id": 506373
+  },
+  "230819": {
+    "reason": "Caption began 'A wild rides'; select a valid surfer description.",
+    "caption_id": 433160
+  },
+  "283412": {
+    "reason": "Guilt was an inferred mental state; describe the dog by newspaper. Second visual pass narrowed the wording to visible details.",
+    "caption_id": 249905,
+    "caption": "A small white dog resting beside a newspaper and cup."
+  },
+  "90956": {
+    "reason": "Original caption already said 'ski slope'; retained after checking the source text.",
+    "caption_id": 203994
+  },
+  "19402": {
+    "reason": "Pizza eating was unclear in this blurred image; prefer visible people/coats or exclude if no accurate caption.",
+    "caption_id": 551900
+  },
+  "425227": {
+    "reason": "Invalid annotation said there was no image, despite a visible beach/kite scene.",
+    "caption_id": 609157
+  },
+  "578967": {
+    "reason": "Train was not a monorail; prefer a conventional train caption.",
+    "caption_id": 53777
+  },
+  "479953": {
+    "reason": "Typo 'A soccer playing'; select a proper player-and-ball description.",
+    "caption_id": 434161
+  },
+  "548780": {
+    "reason": "Remove sexualized subjective wording; use a neutral people-on-bench caption.",
+    "caption_id": 144286
+  },
+  "170955": {
+    "reason": "Prefer a generic person/building caption over named identity and all-caps text.",
+    "caption_id": 379793
+  },
+  "540928": {
+    "reason": "Caption was uninformative ('distinctive things'); describe cat and chair.",
+    "caption_id": 612456
+  },
+  "269314": {
+    "reason": "Original-resolution review confirmed the cat in the banana tree; retained original caption.",
+    "caption_id": 595096
+  },
+  "349860": {
+    "reason": "Replace all-caps caption with a natural existing skateboard caption.",
+    "caption_id": 410326
+  },
+  "190140": {
+    "reason": "Dog appeared standing, not sitting, at the bow.",
+    "caption_id": 272257
+  },
+  "266768": {
+    "reason": "Cooler was large and people were the main scene; select a better picnic-table caption.",
+    "caption_id": 719590
+  },
+  "346707": {
+    "reason": "Bananas were hanging on the tree, not in containers.",
+    "caption_id": 222421,
+    "caption": "A bunch of green bananas growing on a tree."
+  },
+  "128372": {
+    "reason": "Vehicle appeared to be a rail streetcar/light rail rather than a bus.",
+    "caption_id": 424605,
+    "caption": "People waiting beside an orange and silver light rail train."
+  },
+  "110211": {
+    "reason": "Rhinos were not clearly identifiable; prefer the visible zebras scene.",
+    "caption_id": 512701,
+    "caption": "Zebras standing in a dry grassy field."
+  },
+  "251119": {
+    "reason": "Original-resolution package labels confirmed strawberry yogurt and orange juice. Selected a concise existing caption.",
+    "caption_id": 358687
+  },
+  "532901": {
+    "reason": "Caption compared the room to an unspecified model instead of describing it.",
+    "caption_id": 635009
+  },
+  "66038": {
+    "reason": "Family relationship was not established; describe people and beach umbrellas.",
+    "caption_id": 122930
+  },
+  "355169": {
+    "reason": "Display appeared to be a train-station timetable, not an airport board.",
+    "caption_id": 52860
+  },
+  "98261": {
+    "reason": "Birds were not both brown and black; use a neutral two-birds caption.",
+    "caption_id": 352008
+  },
+  "143998": {
+    "reason": "Organic status was not clearly established by the image.",
+    "caption_id": 667756
+  },
+  "119516": {
+    "reason": "Remove subjective appearance judgment; describe the person and night street.",
+    "caption_id": 189974
+  },
+  "139872": {
+    "reason": "Dog was standing rather than lying down.",
+    "caption_id": 330458,
+    "caption": "A black and white dog standing on grass beside a red frisbee."
+  },
+  "161925": {
+    "reason": "Prefer neutral two-people wording; gender was uncertain. Second visual pass narrowed the wording to visible details.",
+    "caption_id": 50394,
+    "caption": "Two people preparing pizza at an outdoor counter."
+  },
+  "575500": {
+    "reason": "Banana blossom was described vaguely as a tail.",
+    "caption_id": 275781
+  },
+  "303893": {
+    "reason": "Remove subjective appearance judgment about a child.",
+    "caption_id": 77050
+  },
+  "238866": {
+    "reason": "Donuts were on a rack/conveyor; drying on a grill was unsupported.",
+    "caption_id": 154942
+  },
+  "182417": {
+    "reason": "Sharing by two people was an inference; describe the dessert.",
+    "caption_id": 4882
+  },
+  "434479": {
+    "reason": "Replace all-caps sentence with a specific natural food caption. Second visual pass narrowed the wording to visible details.",
+    "caption_id": 501230,
+    "caption": "Two small figurines beside a plate of food."
+  },
+  "35062": {
+    "reason": "Sleeping child was not clearly visible; inspect original image and alternate captions.",
+    "caption_id": 434453
+  },
+  "350405": {
+    "reason": "Snowboarder was kneeling/adjusting rather than clearly sailing downhill.",
+    "caption_id": 425784
+  },
+  "253386": {
+    "reason": "Prefer visible dog/collar details over inferred smiling.",
+    "caption_id": 818350
+  },
+  "384661": {
+    "reason": "Refrigerator was not clearly visible beside the stove; choose visible stove/utensils.",
+    "caption_id": 400507
+  },
+  "365208": {
+    "reason": "Person appeared seated/reclining behind the curtain rather than standing.",
+    "caption_id": 283735,
+    "caption": "A seated figure beside a birdcage behind a white curtain."
+  },
+  "322211": {
+    "reason": "Original caption said box, not bowl. Selected the broader pastries caption to avoid uncertain donut/cookie identification.",
+    "caption_id": 781778
+  },
+  "182441": {
+    "reason": "Original caption said waves, not surfers. Selected a clearer caption describing the person and flock of birds.",
+    "caption_id": 817864
+  },
+  "211069": {
+    "reason": "Very quick movement was not established; use neutral giraffe description.",
+    "caption_id": 488109
+  },
+  "574520": {
+    "reason": "Original-resolution review confirmed a surfer on a yellow board, not a jet ski. Selected an accurate existing yellow-board caption.",
+    "caption_id": 697948
+  },
+  "94751": {
+    "reason": "Scene was a seaside crossing/road rather than clearly a parking lot.",
+    "caption_id": 62896
+  },
+  "453860": {
+    "reason": "Remove subjective 'very nice looking' wording.",
+    "caption_id": 492654
+  },
+  "357742": {
+    "reason": "Use a neutral skiing-on-trail description rather than uncertain direction.",
+    "caption_id": 371471
+  },
+  "418959": {
+    "reason": "Bird looked like a gull rather than a duck; check source captions.",
+    "caption_id": 386052
+  },
+  "354307": {
+    "reason": "Exclude: facial-injury close-up with unsupported claims about cause and consciousness; outside the intended everyday-scene selection.",
+    "exclude": true
+  },
+  "28809": {
+    "reason": "Bananas were shown inside a refrigerator rather than on a table.",
+    "caption_id": 485863
+  },
+  "370375": {
+    "reason": "Child wore a batting helmet rather than a baseball hat.",
+    "caption_id": 176138
+  },
+  "283520": {
+    "reason": "Gender claim was uncertain; prefer two people playing with a disc.",
+    "caption_id": 441729
+  },
+  "451155": {
+    "reason": "Dark image did not establish gender; choose visible laptop/bed/person description.",
+    "caption_id": 692086,
+    "caption": "A person using a laptop on a bed in a dark room."
+  },
+  "229997": {
+    "reason": "Birds appeared to be crows rather than vultures; choose a neutral bear-and-birds caption.",
+    "caption_id": 415348
+  },
+  "309678": {
+    "reason": "Hand was over pizza sauce/dough, not clearly holding a tomato. Second visual pass narrowed the wording to visible details.",
+    "caption_id": 355600,
+    "caption": "A rectangular tray of pizza dough covered with tomato sauce."
+  },
+  "193494": {
+    "reason": "Typo 'ten' instead of tent/room; select a clear bed description.",
+    "caption_id": 228630
+  },
+  "53994": {
+    "reason": "Original caption already said parking meter; selected a clearer factual caption without 'pretty'.",
+    "caption_id": 530010
+  },
+  "190753": {
+    "reason": "Exact count/gender was uncertain; describe people sitting on benches.",
+    "caption_id": 22434,
+    "caption": "A group of people sitting around tables in a park."
+  },
+  "157601": {
+    "reason": "Prefer a neutral person-eating caption instead of uncertain gender.",
+    "caption_id": 777405,
+    "caption": "A person eating a sandwich at a table with two paper cups."
+  },
+  "389381": {
+    "reason": "Food was in a compartmentalized lunchbox, not a bowl.",
+    "caption_id": 651488
+  },
+  "174123": {
+    "reason": "Replace vague subjective 'yummy food' with a specific pizza caption.",
+    "caption_id": 562945
+  },
+  "401862": {
+    "reason": "Replace all-caps text with a natural existing food-truck caption.",
+    "caption_id": 112296
+  },
+  "32941": {
+    "reason": "Caption claimed all traffic was stopped despite unclear signal and traffic state.",
+    "caption_id": 292429
+  },
+  "52996": {
+    "reason": "Prefer neutral people preparing food rather than uncertain group gender.",
+    "caption_id": 323682
+  },
+  "434459": {
+    "reason": "Prefer two people cutting a cake rather than uncertain gender labels.",
+    "caption_id": 32547
+  },
+  "79188": {
+    "reason": "Giraffes were standing, not sitting.",
+    "caption_id": 286427
+  },
+  "96549": {
+    "reason": "Takeoff versus landing was not established; describe the airplane.",
+    "caption_id": 35288
+  },
+  "163155": {
+    "exclude": true,
+    "reason": "Second duplicate screen and side-by-side visual review confirmed a near-repeat of image 255965 (same cat, location and camera framing)."
+  },
+  "347456": {
+    "caption_id": 287808,
+    "reason": "Replacement image reviewed at full resolution. Selected an existing factual caption without the initial pond/bond typo or an inferred parent relationship."
+  },
+  "76416": {
+    "caption_id": 630781,
+    "reason": "Low-alignment review confirmed the scene and selected an existing caption describing the visible iPod advertisement."
+  },
+  "541634": {
+    "caption_id": 784129,
+    "reason": "Low-alignment review selected an existing caption that included both the food dish and drink."
+  },
+  "279927": {
+    "caption_id": 613731,
+    "reason": "Low-alignment review replaced a malformed caption with an existing description of the crowd."
+  }
+}

@@ -1,0 +1,36 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv*/
+venv/
+.pytest_cache/
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Downloaded images, weights and caches stay local
+/data/raw/
+/data/processed/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
+*.tar
+*.gz
+.cache/
+wandb/
+mlruns/
+/tmp/
+
+# Full validation samples are retained locally; comparison sheets and run settings are versioned.
+/project/results/generation/validation/
+/project/results/generation/validation_comparison.png

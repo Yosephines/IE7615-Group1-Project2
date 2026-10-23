@@ -1,0 +1,17 @@
+prompt_id,pair_id,prompt,ground_truth_path,seed,categories
+p01,coco2017val_000000565776,A kitchen with a center white island topped with a bowl of greens.,data/processed/images/000000565776.png,42,apple;bowl;cup;oven;potted plant;refrigerator;sink;spoon;vase
+p02,coco2017val_000000416885,Three pastry desserts and two glasses of wine are on a table.,data/processed/images/000000416885.png,43,car;dining table;donut;fork;knife;sandwich;spoon;wine glass
+p03,coco2017val_000000001268,A waterway under a bridge with people sitting down and a woman taking a photo.,data/processed/images/000000001268.png,44,backpack;bird;boat;cell phone;handbag;person
+p04,coco2017val_000000231831,A black and white cat sitting on top of a chair.,data/processed/images/000000231831.png,45,book;cat;cell phone;chair;remote;scissors
+p05,coco2017val_000000213547,A woman holding a small cake with lit candles.,data/processed/images/000000213547.png,46,bottle;cake;clock;horse;person;refrigerator
+p06,coco2017val_000000140583,A flock of animals stand on the road near mountains.,data/processed/images/000000140583.png,47,cow;person;sheep;truck
+p07,coco2017val_000000231747,Baseball memorabilia is displayed in glass stacked casings.,data/processed/images/000000231747.png,48,baseball bat;baseball glove;person;sports ball
+p08,coco2017val_000000333772,The two cats are laying beside of the computer on the keyboard.,data/processed/images/000000333772.png,49,cat;chair;cup;keyboard;mouse;tv
+p09,coco2017val_000000496854,A newly married couple walking down a street.,data/processed/images/000000496854.png,50,handbag;person;tie;traffic light;umbrella
+p10,coco2017val_000000022479,The skateboarder wears headphones while jumping to grab his board.,data/processed/images/000000022479.png,51,bench;person;skateboard
+p11,coco2017val_000000078266,A clean industrial kitchen with no one in it,data/processed/images/000000078266.png,52,apple;bowl;carrot;knife;orange;refrigerator;sink
+p12,coco2017val_000000404484,A woman in a living room with a dog.,data/processed/images/000000404484.png,53,dog;person;potted plant;teddy bear;tv
+p13,coco2017val_000000000885,a male tennis player in white shorts is playing tennis,data/processed/images/000000000885.png,54,person;tennis racket
+p14,coco2017val_000000010092,A green netted bed in a light filled bedroom.,data/processed/images/000000010092.png,55,bed;bird;chair;dining table
+p15,coco2017val_000000028993,Three fire hydrants in front of a huge building.,data/processed/images/000000028993.png,56,fire hydrant;person;traffic light
+p16,coco2017val_000000038070,A white toilet sitting next to a trash can in a restroom.,data/processed/images/000000038070.png,57,toilet
