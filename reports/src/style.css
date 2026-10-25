@@ -1,0 +1,43 @@
+@page { size: Letter; margin: 0.7in 0.8in; }
+:root { --ink: #1d232a; --muted: #5a6470; --rule: #c9d1d9; --head: #2f4f63; --band: #eef2f5; }
+html { font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif; font-size: 10.5pt; line-height: 1.38; color: var(--ink); }
+body { margin: 0; }
+header#title-block-header { display: none; }
+.doc-head { border-bottom: 1px solid var(--rule); margin-bottom: 0.9em; padding-bottom: 0.5em; }
+.doc-head .course { font-style: italic; color: var(--muted); font-size: 9pt; }
+.doc-head h1 { font-size: 17pt; margin: 0.15em 0 0.1em; color: var(--ink); }
+.doc-head .authors { font-size: 9.5pt; color: var(--muted); }
+h1, h2, h3 { font-weight: bold; break-after: avoid; }
+h2 { font-size: 12.5pt; color: var(--head); margin: 1.0em 0 0.3em; }
+h3 { font-size: 11pt; margin: 0.8em 0 0.2em; }
+p { margin: 0.35em 0 0.55em; text-align: justify; hyphens: auto; }
+ul, ol { margin: 0.3em 0 0.6em; padding-left: 1.3em; }
+li { margin: 0.15em 0; }
+table { border-collapse: collapse; width: 100%; margin: 0.5em 0 0.8em; font-size: 9.5pt; }
+tr { break-inside: avoid; }
+th, td { border-bottom: 1px solid var(--rule); padding: 0.28em 0.5em; text-align: left; vertical-align: top; }
+th { background: var(--band); }
+code { font-family: Menlo, Consolas, monospace; font-size: 8.8pt; }
+figure { margin: 0.6em 0; break-inside: avoid; }
+figure img { width: 100%; }
+figcaption { font-size: 9pt; color: var(--muted); }
+.small { font-size: 9pt; color: var(--muted); }
+.gallery { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.4em 0.9em; margin-top: 0.5em; }
+.gallery figure { margin: 0; }
+.gallery figcaption { font-size: 8pt; line-height: 1.25; color: var(--ink); margin-top: 0.15em; }
+.gallery .credit { display: block; color: var(--muted); font-size: 7.5pt; }
+.gallery a, .credit a { color: inherit; }
+.page-break { break-before: page; }
+.cover { break-after: page; text-align: center; height: 9.4in; position: relative; }
+.cover-course { text-align: left; font-style: italic; font-size: 10pt; margin-bottom: 1.1in; }
+.cover-project { font-size: 28pt; font-weight: bold; margin-bottom: 0.45in; }
+.cover-title { font-size: 24pt; font-weight: bold; line-height: 1.25; }
+.cover-milestone { font-size: 17pt; font-weight: bold; margin: 0.1in 0 0.4in; }
+.cover-group { font-size: 19pt; margin-bottom: 0.3in; }
+.cover-names { font-size: 15pt; line-height: 1.45; margin-bottom: 0.25in; }
+.cover-emails { font-size: 15pt; line-height: 1.45; color: #1f3fbf; margin-bottom: 0.2in; }
+.cover-repo { font-size: 11pt; }
+.cover-repo a { color: #1f3fbf; }
+.cover-date { position: absolute; bottom: 0.3in; left: 0; right: 0; font-size: 14pt; }
+.refs p { text-align: left; font-size: 9pt; margin: 0.15em 0; }
+figure .gallery { margin-bottom: 0.3em; }
