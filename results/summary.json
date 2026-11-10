@@ -1,0 +1,13 @@
+{
+  "completed_generations": 48,
+  "expected_generations": 48,
+  "compared_prompts": 20,
+  "pixel_identical_comparisons": 20,
+  "mean_pixel_mae": 0.0,
+  "maximum_pixel_mae": 0.0,
+  "total_measured_inference_seconds": 206.13425968299907,
+  "maximum_allocated_gpu_mib": 3257.86865234375,
+  "all_black_images": 0,
+  "training_performed": false,
+  "limitation": "One fixed seed per prompt; no quantitative alignment metric."
+}

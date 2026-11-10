@@ -1,0 +1,49 @@
+prompt_id,split,prompt,seed,mode,text_weight,steps,guidance_scale,runtime_seconds,peak_allocated_mib,image_all_black,image_file
+v01,validation,Many cars are parked along the sidewalk of a narrow street.,1001,original,,25,7.5,4.298424959000158,3257.5302734375,False,images/v01_original.png
+v01,validation,Many cars are parked along the sidewalk of a narrow street.,1001,weight_1.0,1.0,25,7.5,4.258833955,3257.755859375,False,images/v01_weight_1.0.png
+v01,validation,Many cars are parked along the sidewalk of a narrow street.,1001,weight_0.0,0.0,25,7.5,4.282695644999876,3257.755859375,False,images/v01_weight_0.0.png
+v01,validation,Many cars are parked along the sidewalk of a narrow street.,1001,weight_0.5,0.5,25,7.5,4.311016307000045,3257.86865234375,False,images/v01_weight_0.5.png
+v02,validation,A person on skateboard skating on the pavement.,1002,original,,25,7.5,4.3624701139999615,3257.5302734375,False,images/v02_original.png
+v02,validation,A person on skateboard skating on the pavement.,1002,weight_1.0,1.0,25,7.5,4.416940473000068,3257.755859375,False,images/v02_weight_1.0.png
+v02,validation,A person on skateboard skating on the pavement.,1002,weight_0.0,0.0,25,7.5,4.433340158000192,3257.755859375,False,images/v02_weight_0.0.png
+v02,validation,A person on skateboard skating on the pavement.,1002,weight_0.5,0.5,25,7.5,4.411005108999916,3257.86865234375,False,images/v02_weight_0.5.png
+v03,validation,A train sitting idle in an empty train station,1003,original,,25,7.5,4.3469190289999915,3257.5302734375,False,images/v03_original.png
+v03,validation,A train sitting idle in an empty train station,1003,weight_1.0,1.0,25,7.5,4.327156545999969,3257.755859375,False,images/v03_weight_1.0.png
+v03,validation,A train sitting idle in an empty train station,1003,weight_0.0,0.0,25,7.5,4.289160851999895,3257.755859375,False,images/v03_weight_0.0.png
+v03,validation,A train sitting idle in an empty train station,1003,weight_0.5,0.5,25,7.5,4.277233303999992,3257.86865234375,False,images/v03_weight_0.5.png
+v04,validation,Two girls pose for a photo holding doughnuts.,1004,original,,25,7.5,4.272162124000033,3257.5302734375,False,images/v04_original.png
+v04,validation,Two girls pose for a photo holding doughnuts.,1004,weight_1.0,1.0,25,7.5,4.2711142910000035,3257.755859375,False,images/v04_weight_1.0.png
+v04,validation,Two girls pose for a photo holding doughnuts.,1004,weight_0.0,0.0,25,7.5,4.250803904999884,3257.755859375,False,images/v04_weight_0.0.png
+v04,validation,Two girls pose for a photo holding doughnuts.,1004,weight_0.5,0.5,25,7.5,4.262660381999922,3257.86865234375,False,images/v04_weight_0.5.png
+p01,evaluation,A kitchen with a center white island topped with a bowl of greens.,42,original,,25,7.5,4.259691400000065,3257.5302734375,False,images/p01_original.png
+p01,evaluation,A kitchen with a center white island topped with a bowl of greens.,42,weight_1.0,1.0,25,7.5,4.255858118999868,3257.755859375,False,images/p01_weight_1.0.png
+p02,evaluation,Three pastry desserts and two glasses of wine are on a table.,43,original,,25,7.5,4.268205873999932,3257.5302734375,False,images/p02_original.png
+p02,evaluation,Three pastry desserts and two glasses of wine are on a table.,43,weight_1.0,1.0,25,7.5,4.264627536999797,3257.755859375,False,images/p02_weight_1.0.png
+p03,evaluation,A waterway under a bridge with people sitting down and a woman taking a photo.,44,original,,25,7.5,4.274110022000059,3257.5302734375,False,images/p03_original.png
+p03,evaluation,A waterway under a bridge with people sitting down and a woman taking a photo.,44,weight_1.0,1.0,25,7.5,4.302138072999924,3257.755859375,False,images/p03_weight_1.0.png
+p04,evaluation,A black and white cat sitting on top of a chair.,45,original,,25,7.5,4.295575600999882,3257.5302734375,False,images/p04_original.png
+p04,evaluation,A black and white cat sitting on top of a chair.,45,weight_1.0,1.0,25,7.5,4.301239093000049,3257.755859375,False,images/p04_weight_1.0.png
+p05,evaluation,A woman holding a small cake with lit candles.,46,original,,25,7.5,4.307610963999878,3257.5302734375,False,images/p05_original.png
+p05,evaluation,A woman holding a small cake with lit candles.,46,weight_1.0,1.0,25,7.5,4.307520307000004,3257.755859375,False,images/p05_weight_1.0.png
+p06,evaluation,A flock of animals stand on the road near mountains.,47,original,,25,7.5,4.315252064999868,3257.5302734375,False,images/p06_original.png
+p06,evaluation,A flock of animals stand on the road near mountains.,47,weight_1.0,1.0,25,7.5,4.3076838399999815,3257.755859375,False,images/p06_weight_1.0.png
+p07,evaluation,Baseball memorabilia is displayed in glass stacked casings.,48,original,,25,7.5,4.2834453360001135,3257.5302734375,False,images/p07_original.png
+p07,evaluation,Baseball memorabilia is displayed in glass stacked casings.,48,weight_1.0,1.0,25,7.5,4.29348309299985,3257.755859375,False,images/p07_weight_1.0.png
+p08,evaluation,The two cats are laying beside of the computer on the keyboard.,49,original,,25,7.5,4.289806838000004,3257.5302734375,False,images/p08_original.png
+p08,evaluation,The two cats are laying beside of the computer on the keyboard.,49,weight_1.0,1.0,25,7.5,4.2824658360000285,3257.755859375,False,images/p08_weight_1.0.png
+p09,evaluation,A newly married couple walking down a street.,50,original,,25,7.5,4.278995035999969,3257.5302734375,False,images/p09_original.png
+p09,evaluation,A newly married couple walking down a street.,50,weight_1.0,1.0,25,7.5,4.302522387999943,3257.755859375,False,images/p09_weight_1.0.png
+p10,evaluation,The skateboarder wears headphones while jumping to grab his board.,51,original,,25,7.5,4.266955048,3257.5302734375,False,images/p10_original.png
+p10,evaluation,The skateboarder wears headphones while jumping to grab his board.,51,weight_1.0,1.0,25,7.5,4.2932747380000365,3257.755859375,False,images/p10_weight_1.0.png
+p11,evaluation,A clean industrial kitchen with no one in it,52,original,,25,7.5,4.2860893890001535,3257.5302734375,False,images/p11_original.png
+p11,evaluation,A clean industrial kitchen with no one in it,52,weight_1.0,1.0,25,7.5,4.268059119999862,3257.755859375,False,images/p11_weight_1.0.png
+p12,evaluation,A woman in a living room with a dog.,53,original,,25,7.5,4.27539191999972,3257.5302734375,False,images/p12_original.png
+p12,evaluation,A woman in a living room with a dog.,53,weight_1.0,1.0,25,7.5,4.267184481000186,3257.755859375,False,images/p12_weight_1.0.png
+p13,evaluation,a male tennis player in white shorts is playing tennis,54,original,,25,7.5,4.266291108000132,3257.5302734375,False,images/p13_original.png
+p13,evaluation,a male tennis player in white shorts is playing tennis,54,weight_1.0,1.0,25,7.5,4.277452701000129,3257.755859375,False,images/p13_weight_1.0.png
+p14,evaluation,A green netted bed in a light filled bedroom.,55,original,,25,7.5,4.272597982999741,3257.5302734375,False,images/p14_original.png
+p14,evaluation,A green netted bed in a light filled bedroom.,55,weight_1.0,1.0,25,7.5,4.275615535999805,3257.755859375,False,images/p14_weight_1.0.png
+p15,evaluation,Three fire hydrants in front of a huge building.,56,original,,25,7.5,4.277049710000028,3257.5302734375,False,images/p15_original.png
+p15,evaluation,Three fire hydrants in front of a huge building.,56,weight_1.0,1.0,25,7.5,4.2756528489999255,3257.755859375,False,images/p15_weight_1.0.png
+p16,evaluation,A white toilet sitting next to a trash can in a restroom.,57,original,,25,7.5,4.287507173999984,3257.5302734375,False,images/p16_original.png
+p16,evaluation,A white toilet sitting next to a trash can in a restroom.,57,weight_1.0,1.0,25,7.5,4.282969351000247,3257.755859375,False,images/p16_weight_1.0.png

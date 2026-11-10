@@ -1,0 +1,5 @@
+prompt_id,pair_id,prompt,seed,weight_0_observation,weight_05_observation,weight_1_observation
+v01,coco2017val_000000565563,Many cars are parked along the sidewalk of a narrow street.,1001,,,
+v02,coco2017val_000000199055,A person on skateboard skating on the pavement.,1002,,,
+v03,coco2017val_000000352491,A train sitting idle in an empty train station,1003,,,
+v04,coco2017val_000000341973,Two girls pose for a photo holding doughnuts.,1004,,,

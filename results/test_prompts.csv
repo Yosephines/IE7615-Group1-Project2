@@ -1,0 +1,21 @@
+prompt_id,pair_id,prompt,seed,split
+v01,coco2017val_000000565563,Many cars are parked along the sidewalk of a narrow street.,1001,validation
+v02,coco2017val_000000199055,A person on skateboard skating on the pavement.,1002,validation
+v03,coco2017val_000000352491,A train sitting idle in an empty train station,1003,validation
+v04,coco2017val_000000341973,Two girls pose for a photo holding doughnuts.,1004,validation
+p01,,A kitchen with a center white island topped with a bowl of greens.,42,evaluation
+p02,,Three pastry desserts and two glasses of wine are on a table.,43,evaluation
+p03,,A waterway under a bridge with people sitting down and a woman taking a photo.,44,evaluation
+p04,,A black and white cat sitting on top of a chair.,45,evaluation
+p05,,A woman holding a small cake with lit candles.,46,evaluation
+p06,,A flock of animals stand on the road near mountains.,47,evaluation
+p07,,Baseball memorabilia is displayed in glass stacked casings.,48,evaluation
+p08,,The two cats are laying beside of the computer on the keyboard.,49,evaluation
+p09,,A newly married couple walking down a street.,50,evaluation
+p10,,The skateboarder wears headphones while jumping to grab his board.,51,evaluation
+p11,,A clean industrial kitchen with no one in it,52,evaluation
+p12,,A woman in a living room with a dog.,53,evaluation
+p13,,a male tennis player in white shorts is playing tennis,54,evaluation
+p14,,A green netted bed in a light filled bedroom.,55,evaluation
+p15,,Three fire hydrants in front of a huge building.,56,evaluation
+p16,,A white toilet sitting next to a trash can in a restroom.,57,evaluation

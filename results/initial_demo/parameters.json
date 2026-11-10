@@ -1,0 +1,20 @@
+{
+  "model_id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "prompt": "A dog running on the beach.",
+  "negative_prompt": "",
+  "seed": 42,
+  "num_inference_steps": 25,
+  "guidance_scale": 7.5,
+  "scheduler": "PNDMScheduler",
+  "embedding_weights": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "embedding_shape": [
+    1,
+    77,
+    768
+  ],
+  "modification": "Interpolation between empty and full prompt embeddings"
+}

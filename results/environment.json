@@ -1,0 +1,38 @@
+{
+  "created_utc": "2026-11-09T19:41:50.662942+00:00",
+  "model_id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "gpu": "Tesla T4",
+  "torch": "2.14.1+cu130",
+  "diffusers": "0.42.1",
+  "transformers": "5.22.1",
+  "dtype": "torch.float16",
+  "scheduler": "PNDMScheduler",
+  "scheduler_config": {
+    "num_train_timesteps": 1000,
+    "beta_start": 0.00085,
+    "beta_end": 0.012,
+    "beta_schedule": "scaled_linear",
+    "trained_betas": null,
+    "skip_prk_steps": true,
+    "set_alpha_to_one": false,
+    "prediction_type": "epsilon",
+    "timestep_spacing": "leading",
+    "steps_offset": 1,
+    "_use_default_values": [
+      "timestep_spacing",
+      "prediction_type"
+    ],
+    "_class_name": "PNDMScheduler",
+    "_diffusers_version": "0.6.0",
+    "clip_sample": false
+  },
+  "steps": 25,
+  "guidance_scale": 7.5,
+  "resolution": [
+    512,
+    512
+  ],
+  "training_performed": false,
+  "baseline_prompts_git_blob": "736ecbd48e2b65af9130ae25f2fe491d8d7e9dba",
+  "manifest_git_blob": "708184ef2a519567c85776f0baa9ccfa06e4aa15"
+}
